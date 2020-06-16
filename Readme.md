@@ -3,3 +3,5 @@
 > * [인공지능 사례 분석](https://github.com/JongIn-Park/GMP/blob/master/TEST_1.ipynb)
 ## 2주차 과제(2020.05.28)
 > * [파이선과 인공지능 기초 수학](https://github.com/JongIn-Park/GMP/blob/master/TEST_2.ipynb)
+## 3주차 과제(2020.06.04)
+> * [파이선과 인공지능 기초 수학](https://github.com/JongIn-Park/GMP/blob/master/TEST_3.ipynb)
