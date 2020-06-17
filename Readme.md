@@ -6,3 +6,5 @@
 ## 3주차 과제(2020.06.04)
 > * [학습률 최적화, 군집분석구현, Cost Function 구현](https://github.com/JongIn-Park/GMP/blob/master/TEST_3.ipynb)
 > * 위의 파일이 열리지 않는 다면 이 방식으로 업로드해주세요. ㅡ>[3주차 과제 nbviewer](https://github.com/JongIn-Park/GMP/blob/master/TEST_3.ipynb)
+## 4주차 과제(2020.06.11)
+> * [딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산](https://github.com/JongIn-Park/GMP/blob/master/TEST_4.ipynb)
